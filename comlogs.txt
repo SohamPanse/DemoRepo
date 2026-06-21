@@ -1,0 +1,29 @@
+commit 2c812c2897d3d3079d5a76381ce6d1d2feec79be
+Author: Soham <sohampanse2006@gmail.com>
+Date:   Sun Jun 21 10:30:14 2026 +0530
+
+    Added second
+
+commit 802d4397e03b3580183327c900bbac1210d4094c
+Author: Soham <sohampanse2006@gmail.com>
+Date:   Sun Jun 21 10:25:33 2026 +0530
+
+    Direct Commit
+
+commit 8c5e39320f01e2f9f7395b9ef518283f58653773
+Author: Soham <sohampanse2006@gmail.com>
+Date:   Sat Jun 20 15:14:13 2026 +0530
+
+    Edited Mytec file
+
+commit 3f1bd2cf430b0a9953625308ba135a1901060ec9
+Author: Soham <sohampanse2006@gmail.com>
+Date:   Sat Jun 20 14:19:04 2026 +0530
+
+    Added gitignore file
+
+commit 4db87cc8f47c796fe0b20b34fddbb18385711ec7
+Author: Soham <sohampanse2006@gmail.com>
+Date:   Sat Jun 20 14:14:28 2026 +0530
+
+    Added more files
