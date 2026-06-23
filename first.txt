@@ -5,4 +5,5 @@ This will go in commit 2
 Hello there i am line 2
 
 LOLOLOLOLOLOL
-Lorem Ipsum
+Lorem IpsumLOLO
+Some New Addition
